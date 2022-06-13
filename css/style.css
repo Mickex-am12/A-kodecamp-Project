@@ -82,7 +82,7 @@
     }
     
     .right-half {
-        background-image: url(image/Image.png);
+        background-image: url(Image.png);
         background-repeat: no-repeat;
         background-size:cover;
         background-position: center;
@@ -331,7 +331,7 @@
     }
     .first-half {
         width: 50%;
-        background-image: url(image/Image1.png);
+        background-image: url(Image1.png);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -339,7 +339,7 @@
     }
     .second-half {
         width: 50%;
-        background-image: url(image/ovGrEUgrkyE.png);
+        background-image: url(ovGrEUgrkyE.png);
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -579,7 +579,7 @@
         margin: 5% auto;
     }
     .services-first .left {
-        background-image: url(image/servicefirst.png);
+        background-image: url(servicefirst.png);
         width: 40%;
         margin: auto;
         min-height: 60vh;
@@ -774,7 +774,7 @@
         }
             
         .left-half {
-            background-image: url(image/Image.png);
+            background-image: url(Image.png);
             background-position: center;
             background-size: cover;
             width: 100%;
@@ -1054,7 +1054,7 @@
         /* services tab */
         /* first section */
         .services-first {
-            background-image: url(image/servicefirst.png);
+            background-image: url(servicefirst.png);
             background-position: left;
             background-size: cover;
             height: 100vh;
@@ -1064,7 +1064,7 @@
             margin: 5% auto;
         }
         .services-first .left {
-            background-image: url(image/servicefirst.png);
+            background-image: url(servicefirst.png);
             width: 40%;
             margin: auto;
             min-height: 60vh;
@@ -1219,7 +1219,7 @@
         }
             
         .left-half {
-            background-image: url(image/Image.png);
+            background-image: url(Image.png);
             background-position: center;
             background-size: cover;
             width: 100%;
